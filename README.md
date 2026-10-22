@@ -2,7 +2,7 @@
 
 ### Aspiring Software Engineer | Python | JavaScript | React
 
-I'm a Software Engineering graduate awaiting graduation from Moringa School, with a background in Astronomy and Astrophysics.
+I'm a Software Engineering graduate from Moringa School, with a background in Astronomy and Astrophysics.
 
 I enjoy solving problems, learning new technologies, and building practical applications.
 
