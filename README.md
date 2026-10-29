@@ -1,5 +1,4 @@
 # Hi, I'm Caren 👋🔭
-LinkedIn: https://www.linkedin.com/in/caren-chemjor-69a4a8242
 
 ### Junior Full-Stack Developer | Astrophysics Graduate | Nairobi, Kenya
 
@@ -31,8 +30,8 @@ I never stopped loving space, so I'm looking for roles in **software development
 | --- | --- | --- |
 | 📚 [**Booked**](https://github.com/caren12/book-store) | Online bookstore and digital lending library for discovering, buying, and borrowing books | React, Redux Toolkit, Flask, PostgreSQL, JWT |
 | 🩸 [**Community Blood Donation Network**](https://github.com/caren12/community-blood-donation-network) | Connects blood donors with hospitals and manages donation requests | React, Flask, SQLAlchemy, PostgreSQL, JWT |
-| 🧠 **Skill-Hives** | Skill-sharing and learning platform | React, Vite, React Router, CSS |
-| 🪐 **Sayari Hub** | Space and astronomy app powered by NASA's public APIs | React, JavaScript, Tailwind CSS, NASA APIs |
+| 🧠 [**Skill-Hives** ](https://github.com/caren12/skills-hive)| Skill-sharing and learning platform | React, Vite, React Router, CSS |
+| 🪐 [**Sayari Hub** ](https://github.com/caren12/Sayari-Hub)| Space and astronomy app powered by NASA's public APIs | React, JavaScript, Tailwind CSS, NASA APIs |
 
 I built most of my projects in teams, working in Git branches, reviewing each other's code, and running sprints. I served as Scrum Master on Booked and the Community Blood Donation Network.
 
