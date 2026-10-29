@@ -1,4 +1,5 @@
 # Hi, I'm Caren Jerop Chemjor
+LinkedIn profile: https://www.linkedin.com/in/caren-chemjor-69a4a8242
 
 ### Aspiring Software Engineer | Python | JavaScript | React
 
